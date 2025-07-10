@@ -8,6 +8,8 @@ Casey can come back and edit this when needed. Casey will now test it. I have ma
 
 Casey is now adding another edit in 2025 as additional practice.
 
+Casey is now adding another line to test the source control feature of VS code that Jon demonstrates.
+
 ## How to fork this repository?
 
 1. Click on the `Fork` button on the top right corner of this page.
