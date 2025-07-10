@@ -6,7 +6,6 @@ For now, we're only adding the [Week 04 Lecture](https://lse-dsi.github.io/DS105
 
 Casey can come back and edit this when needed. Casey will now test it. I have made edits, but my `git status` command indicates I am up to date because I have not yet saved this edit.
 
-Casey is now adding another edit in 2025 as additional practice.
 
 Casey is now adding another line to test the source control feature of VS code that Jon demonstrates.
 
