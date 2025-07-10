@@ -6,6 +6,8 @@ For now, we're only adding the [Week 04 Lecture](https://lse-dsi.github.io/DS105
 
 Casey can come back and edit this when needed. Casey will now test it. I have made edits, but my `git status` command indicates I am up to date because I have not yet saved this edit.
 
+Casey is now adding another edit in 2025 as additional practice.
+
 ## How to fork this repository?
 
 1. Click on the `Fork` button on the top right corner of this page.
